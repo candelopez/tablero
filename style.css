@@ -1,6 +1,10 @@
 div {
-	width: 20px;
-	height: 20px;
 	float: left;
-	border-color: 1px solid red;
+	border-radius: 3px;
+}
+
+#tablero {
+	width: 500px;
+	height: 500px;
+	border: 1px solid red;
 }
